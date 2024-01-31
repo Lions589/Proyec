@@ -5,7 +5,7 @@ Cargo  | Docente    |
 ------------- | -------------
 Nombre  | Ing. Sebastián Landázuri  |
 Asignatura  | Base de Datos no relacionales    |
-Carrera  | Desarollo de Software   | Nivel: Tercer Nivel  |
+Carrera  | Desarollo de Software  -----------  Nivel: Tercer Nivel  |
 Estudiante  | Bryan Velasco, Alejandro Argoti, Alexis Velasco , Lizandro Duran, Gabriel Salazar    |
 
 --------------Proyecto--------------
