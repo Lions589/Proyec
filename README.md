@@ -10,7 +10,7 @@ Estudiante  | Bryan Velasco, Alejandro Argoti, Alexis Velasco , Lizandro Duran, 
 
 --------------Proyecto--------------
 =============
-##Crear una base de datos no relacionales en MongoDB Compass para saber su funcionalidad:
+## Crear una base de datos no relacionales en MongoDB Compass para saber su funcionalidad:
 ![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/239708679/original/a76d5bfba0311514d6c1f5f607373a1bdd5a865a/anything-and-everything-about-mongodb.png)
 
 ### Objetivo
